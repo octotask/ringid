@@ -1,0 +1,52 @@
+# macOS system files
+.DS_Store
+
+# CodeIgniter cache/logs
+application/cache/*
+application/logs/*
+
+# PHPUnit
+phpunit.xml
+phpunit.xml.dist
+
+# Vendor (if using Composer)
+vendor/
+
+# Environment files
+.env
+.env.*
+
+# --- Enhanced Project Structure Ignores ---
+# Ignore backup, build, and archive directories
+archive/
+web-content/downloads/
+web-content/misc/
+web-content/scripts/
+web-content/styles/
+web-content/blog/
+web-content/legal/
+web-content/html/
+
+# Ignore asset builds and temp files
+frontend/public/js/
+frontend/public/css/
+frontend/public/images/
+frontend/assets/
+frontend/views/
+backend/tests/
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Ignore OS/system files
+Thumbs.db
+
+# Ignore IDE/editor folders
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Ignore node_modules or vendor if you use them
+node_modules/

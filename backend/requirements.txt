@@ -1,0 +1,3 @@
+# Example backend requirements
+flask
+pytest

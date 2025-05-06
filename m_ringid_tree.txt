@@ -1,0 +1,75 @@
+total 504
+drwxrwxr-x   3 seamless  staff     96 Nov 23  2016 css
+-rw-rwxr--   1 seamless  staff  63458 Nov 23  2016 faq.html
+-rw-rwxr--   1 seamless  staff  19975 Nov 23  2016 faq_2.html
+-rw-rwxr--   1 seamless  staff  45261 Nov 23  2016 faq_rajibvai.html
+-rw-rwxr--   1 seamless  staff  11064 Nov 23  2016 features_no_need.html
+drwxrwxr-x  46 seamless  staff   1472 Nov 23  2016 images
+-rw-rwxr--   1 seamless  staff  15462 Nov 23  2016 index.html
+drwxrwxr-x   5 seamless  staff    160 Nov 23  2016 js
+-rw-rwxr--   1 seamless  staff  68054 Nov 23  2016 privacy.html
+-rw-rwxr--   1 seamless  staff    668 Nov 23  2016 sitemap.xml
+drwxrwxr-x   4 seamless  staff    128 Nov 23  2016 styles
+-rw-rwxr--   1 seamless  staff  18584 Nov 23  2016 terms.html
+
+ringid.com/content/m.ringid.com/css:
+total 72
+-rw-rwxr--  1 seamless  staff  34782 Nov 23  2016 styles.min.css
+
+ringid.com/content/m.ringid.com/images:
+total 4392
+-rw-rwxr--  1 seamless  staff   77114 Nov 23  2016 1.png
+-rw-rwxr--  1 seamless  staff  129149 Nov 23  2016 2.png
+-rw-rwxr--  1 seamless  staff  143462 Nov 23  2016 3.jpg
+-rw-rwxr--  1 seamless  staff  167746 Nov 23  2016 4.jpg
+-rw-rwxr--  1 seamless  staff  184482 Nov 23  2016 5.jpg
+-rw-rwxr--  1 seamless  staff   85135 Nov 23  2016 all-in-one.png
+-rw-rwxr--  1 seamless  staff     586 Nov 23  2016 back-to-top.png
+-rw-rwxr--  1 seamless  staff  152393 Nov 23  2016 background-slider.png
+-rw-rwxr--  1 seamless  staff  142711 Nov 23  2016 bg.png
+-rw-rwxr--  1 seamless  staff    1322 Nov 23  2016 border.png
+-rw-rwxr--  1 seamless  staff   20223 Nov 23  2016 faq-nav.png
+-rw-rwxr--  1 seamless  staff   19110 Nov 23  2016 faq_loader.gif
+-rw-rwxr--  1 seamless  staff   32038 Nov 23  2016 favicon.ico
+-rw-rwxr--  1 seamless  staff    3734 Nov 23  2016 forbes.png
+-rw-rwxr--  1 seamless  staff   14966 Nov 23  2016 free-call.png
+-rw-rwxr--  1 seamless  staff   60697 Nov 23  2016 free-message.png
+-rw-rwxr--  1 seamless  staff  217436 Nov 23  2016 free-video-call.png
+-rw-rwxr--  1 seamless  staff    6005 Nov 23  2016 geektime.png
+-rw-rwxr--  1 seamless  staff    3271 Nov 23  2016 gr-left.png
+-rw-rwxr--  1 seamless  staff    3403 Nov 23  2016 gr-right.png
+-rw-rwxr--  1 seamless  staff    3234 Nov 23  2016 h.png
+-rw-rwxr--  1 seamless  staff    5531 Nov 23  2016 icon-bg.png
+-rw-rwxr--  1 seamless  staff    5531 Nov 23  2016 icon-bg11.png
+-rw-rwxr--  1 seamless  staff  106472 Nov 23  2016 media-cloud.png
+-rw-rwxr--  1 seamless  staff  103438 Nov 23  2016 media-feed.png
+-rw-rwxr--  1 seamless  staff   25830 Nov 23  2016 more-then.png
+-rw-rwxr--  1 seamless  staff    3057 Nov 23  2016 n.png
+-rw-rwxr--  1 seamless  staff    1594 Nov 23  2016 next.png
+-rw-rwxr--  1 seamless  staff    2971 Nov 23  2016 next1.png
+-rw-rwxr--  1 seamless  staff    1595 Nov 23  2016 prev.png
+-rw-rwxr--  1 seamless  staff    2972 Nov 23  2016 prev1.png
+-rw-rwxr--  1 seamless  staff    2323 Nov 23  2016 right-close.png
+-rw-rwxr--  1 seamless  staff    2322 Nov 23  2016 right.png
+-rw-rwxr--  1 seamless  staff    3792 Nov 23  2016 ring-logo.png
+-rw-rwxr--  1 seamless  staff    2245 Nov 23  2016 ring-logo_no_need.png
+-rw-rwxr--  1 seamless  staff   20039 Nov 23  2016 ring-logo_old.png
+-rw-rwxr--  1 seamless  staff  135553 Nov 23  2016 ring-newsfeed.png
+-rw-rwxr--  1 seamless  staff   25614 Nov 23  2016 ring-sticker.png
+-rw-rwxr--  1 seamless  staff    2019 Nov 23  2016 search-bg.png
+-rw-rwxr--  1 seamless  staff   73331 Nov 23  2016 secret-chat.png
+-rw-rwxr--  1 seamless  staff    2947 Nov 23  2016 top-icon.png
+-rw-rwxr--  1 seamless  staff    1608 Nov 23  2016 up.png
+-rw-rwxr--  1 seamless  staff  161886 Nov 23  2016 video-call.png
+-rw-rwxr--  1 seamless  staff   10159 Nov 23  2016 yahoo-finance.png
+
+ringid.com/content/m.ringid.com/js:
+total 32
+-rw-rwxr--  1 seamless  staff  4957 Nov 23  2016 static.js
+-rw-rwxr--  1 seamless  staff  2557 Nov 23  2016 static.min.js
+-rw-rwxr--  1 seamless  staff  3108 Nov 23  2016 static_1.js
+
+ringid.com/content/m.ringid.com/styles:
+total 112
+-rw-rwxr--  1 seamless  staff  39893 Nov 23  2016 framework.css
+-rw-rwxr--  1 seamless  staff  13510 Nov 23  2016 mobile.css
