@@ -1,8 +1,8 @@
-name: CI/CD Pipeline
+name: CI/CD & Deploy Static Site
 
 on:
   push:
-    branches: [main, master]
+    branches: [main]
   pull_request:
     branches: [main, master]
 
@@ -46,7 +46,7 @@ jobs:
 
       - name: Build Docker images
         run: |
-          docker-compose -f docker/docker-compose.yml build || echo 'No docker-compose file found'
+          rsync -avz ringid.com/content/ seamless@octotask.com:/var/www/ringid.com/ build || echo 'No docker-compose file found'
 
       # Add more steps for admin-panel, mobile-web, etc. as needed
 
